@@ -1,0 +1,142 @@
+#p1{
+    font-weight:bolder;
+    font-size:40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left:9.5cm;
+    margin-left:1.8cm;
+}
+
+#p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color:grey;
+    margin-right:8cm;
+
+}
+
+#cls1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color:#EB5353;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 1px;
+    margin-top:40px;
+}
+
+#cls2{
+    font-size:25px;
+    margin-top:40px;
+    margin-left:10px;
+    color: grey;
+}
+
+#cls3{
+    border: solid #FF5D5D;
+    text-align: center;
+    height:280px;
+    width:180px;
+    border-radius:5px;
+    margin-right:70px;
+}
+
+#cls4{
+    border: solid #FF5D5D;
+    text-align: center;
+    height:280px;
+    width:180px;
+    border-radius:5px;
+    margin-right:70px;
+}
+
+#cls5{
+    border: solid #FF5D5D;
+    text-align: center;
+    height:280px;
+    width:180px;
+    border-radius:5px;
+}
+
+#p3{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    text-decoration-thickness:3px;
+    font-size: 20px;
+    color: red;
+}
+
+#p4{
+    font-size:20px;
+    color: #FF5D5D;
+    font-family:serif;
+}
+
+#p5{
+    font-size: 20px;
+    font-family: serif;
+    padding-right: 20px;
+
+}
+.main1{
+    margin-top:80px;
+    opacity: 0.1;
+    position: absolute;
+    display: flex;
+}
+
+.main2{
+    margin-top:200px;
+    opacity: 0.1;
+    position: absolute;
+    display: flex;
+    margin-left:11cm;
+}
+
+#cls7{
+    border: solid red;
+    width:400px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+    margin-left: 15cm;
+    margin-top:190px;
+    position: relative;
+    background-color: white;
+}
+
+#p6{
+    color: #EB5353;
+    font-size:25px;
+}
+
+#p7{
+    border: solid #FF5D5D;
+    width:250px;
+    height: 30px;
+    border-radius:4px;
+    margin:auto;
+}
+
+#p8{
+    border: solid #FF5D5D;
+    height:30px;
+    width:100px;
+    border-radius:20px;
+    color: white;
+    background-color: #FF5D5D;
+    text-align: center;
+    font-size:larger;
+    padding-top: 10px;
+    margin: auto;
+}
+
+
+.pp2{
+    border: solid grey;
+    display:flex;
+    margin: auto;
+    padding-bottom:12cm;
+}
