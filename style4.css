@@ -1,3 +1,28 @@
+#pop_b {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1000; 
+    pointer-events: auto;
+}
+#pep_b {
+    font-size: 30px;
+    color: #FF5D5D;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pep_b {
+    font-size: 100px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
 #pep1{
     font-size:40px;
     color:#FF5D5D; 
@@ -188,7 +213,7 @@ h1 {
 
 
 .ARP{
-    border: 2px solid gray;
+    /* border: 2px solid gray; */
     padding-top: 50px;
     padding-bottom:12cm;
 }

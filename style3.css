@@ -1,3 +1,28 @@
+#pop1 {
+    position: fixed;
+    top: 17%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1000; 
+    pointer-events: auto;
+}
+#pep1 {
+    font-size: 30px;
+    color: #FF5D5D;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#pep2 {
+    font-size: 24px;
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
 #p1{
     font-weight:bolder;
     font-size:40px;
@@ -135,8 +160,11 @@
 
 
 .pp2{
-    border: solid grey;
     display:flex;
     margin: auto;
     padding-bottom:12cm;
+}
+
+a {
+    text-decoration: none;
 }
